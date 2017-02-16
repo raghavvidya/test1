@@ -1,0 +1,4 @@
+---
+ ENV: testing
+ application: TestApp
+ server_role: webserver
